@@ -1,0 +1,2 @@
+# bitflyer_logger
+bitFlyerのログを保存するだけのアレ
