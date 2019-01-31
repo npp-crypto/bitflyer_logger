@@ -1,4 +1,4 @@
-var dir = '../log';
+var dir = 'log';
 var source = dir;
 
 const io = require('socket.io-client');
